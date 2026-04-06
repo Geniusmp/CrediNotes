@@ -1,4 +1,4 @@
-# Resource Hub
+# Credi Notes
 
 ## Tech Stack
 
